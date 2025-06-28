@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "hlee_profile.png"
   name             : "Hyunjung Lee"
-  pronouns         : # example: "she/her"  
+  pronouns         : ""  
   bio              : ""
   location         : "Davis, CA"
   employer         : "University of California, Davis"
   uri              : # URL
-  email            : "hjhlee@ucdavis.edu" 
+  email            : "" 
 
   # Academic websites
   academia         : # URL
@@ -218,6 +218,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/ 
   publications:
     output: true
     permalink: /:collection/:path/
@@ -253,6 +256,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
