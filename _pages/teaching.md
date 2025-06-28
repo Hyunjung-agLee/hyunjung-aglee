@@ -2,9 +2,6 @@
 permalink: /
 title: "Teaching Experience"
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
 ---
 
 **Teaching Assistant**, University of California, Davis
