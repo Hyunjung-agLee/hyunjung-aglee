@@ -2,5 +2,5 @@
 title: "Research"
 collection: research
 type: "Undergraduate course"
-permalink: /research/
+permalink: /research/reasarch1.md
 ---
