@@ -9,8 +9,9 @@ author_profile: true
 * Complementarity or Substitutability of Positive Sustainability Messaging in Modern Retail Markets: Can Certified Labels Better Inform Consumers than Manufacturer and Retailer Claims?
 * Local and Organic Labels and Claims with SuSol
 
+---
 
-**Technical Reports Conducted at Korea Rural Economic Institute (KREI) and Seoul National University**
+### Technical Reports Conducted at Korea Rural Economic Institute (KREI) and Seoul National University**
 
 * Hakkyun Jeong, Jaehoon Sung, **Hyunjung Lee**, *The Effects of Extreme Events on Korean Agricultural Sector*, Korea Rural Economic Institute, 2019.
 * Jaehoon Sung, Wonjoo Cho, **Hyunjung Lee**, Kyungsoo Kang, *Development of Economic Assessment Model for Water-Energy-Food Nexus Platform and Evaluation Agricultural Policies Based on Water-Energy-Food Nexus* (Year 2 of 2), Korea Rural Development Administration, 2019.
