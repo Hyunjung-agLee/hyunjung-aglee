@@ -9,7 +9,7 @@ author_profile: true
 * Complementarity or Substitutability of Positive Sustainability Messaging in Modern Retail Markets: Can Certified Labels Better Inform Consumers than Manufacturer and Retailer Claims?
 * Local and Organic Labels and Claims with SuSol
 
----
+
 
 ### Technical Reports Conducted at Korea Rural Economic Institute (KREI) and Seoul National University
 
