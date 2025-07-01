@@ -9,7 +9,7 @@ author_profile: true
 * Local and Organic Labels and Claims with SuSol
 
 
-**Technical Reports Conducted at Korea Rural Economic Institute (KREI) and Seoul National University**
+**Technical Reports Conducted at Korea Rural Economic Institute (KREI)**
 
 * Hakkyun Jeong, Jaehoon Sung, **Hyunjung Lee**, *The Effects of Extreme Events on Korean Agricultural Sector*, Korea Rural Economic Institute, 2019.
 * Jaehoon Sung, Wonjoo Cho, **Hyunjung Lee**, Kyungsoo Kang, *Development of Economic Assessment Model for Water-Energy-Food Nexus Platform and Evaluation Agricultural Policies Based on Water-Energy-Food Nexus* (Year 2 of 2), Korea Rural Development Administration, 2019.
@@ -25,6 +25,7 @@ author_profile: true
 * Gwangseok Chae, Hakgi Sohn, **Hyunjung Lee**, *Study on the Effects of Designating Farmlands with Unfavorable Conditions and Measures for Improvement*, Korea Ministry of Agriculture, Food and Rural Affairs, 2017.
 * Gwangseok Chae, Jaehoon Sung, **Hyunjung Lee**, Booyoung Kim, *The Study on the Estimation of Damages from Agricultural Drought*, Korea Rural Community Cooperation – Rural Research Institute, 2017.
 
+**Technical Reports Conducted at Seoul National University**
 * Taeho Lee, Kwansoo Kim, Jeongbin Im, Donghwan An, Moonho Lee, Seonhyung Min, **Hyunjung Lee**, Seunghoon Lee, *Agricultural Policy Analysis and Evaluation on Direct Payment Program*, Korea Ministry of Economy and Finance, 2016.
 * Donghwan An, Yongjoon Kim, **Hyunjung Lee**, *Estimating an Economic Value of Current and Improved Weather Forecasts in South Korea*, Korea Meteorological Administration, 2016.
 * Kwansoo Kim, Donghwan An, **Hyunjung Lee**, Woongchan Jeon, *Economic Impact of Climate Change in South Korea based on a Newly Developed Climate Change Scenario called Shared Socio-Economic Pathway 2 (SSP2)*, National Institute of Environmental Research, 2016.
