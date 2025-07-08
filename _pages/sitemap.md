@@ -6,6 +6,7 @@ author_profile: true
 show_sitemap: false
 ---
 
+{% if page.show_sitemap %}
 {% include base_path %}
 
 A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
@@ -36,3 +37,4 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% endunless %}
 {% endfor %}
 {% endfor %}
+{% endif %}
