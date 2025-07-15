@@ -28,6 +28,9 @@ My research at the Korea Rural Economic Institute (KREI) has centered on support
 * Gwangseok Chae, Jaehoon Sung, **Hyunjung Lee**, Booyoung Kim, *The Study on the Estimation of Damages from Agricultural Drought*, Korea Rural Community Cooperation – Rural Research Institute, 2017.
 
 **Technical Reports Conducted at Seoul National University**
+
+My work at Seoul National University encompasses comprehensive analyses of national agricultural support policies and region-specific development strategies. These efforts aim to support evidence-based policymaking and promote sustainable agricultural development at both national and regional levels.
+
 * Taeho Lee, Kwansoo Kim, Jeongbin Im, Donghwan An, Moonho Lee, Seonhyung Min, **Hyunjung Lee**, Seunghoon Lee, *Agricultural Policy Analysis and Evaluation on Direct Payment Program*, Korea Ministry of Economy and Finance, 2016.
 * Donghwan An, Yongjoon Kim, **Hyunjung Lee**, *Estimating an Economic Value of Current and Improved Weather Forecasts in South Korea*, Korea Meteorological Administration, 2016.
 * Kwansoo Kim, Donghwan An, **Hyunjung Lee**, Woongchan Jeon, *Economic Impact of Climate Change in South Korea based on a Newly Developed Climate Change Scenario called Shared Socio-Economic Pathway 2 (SSP2)*, National Institute of Environmental Research, 2016.
