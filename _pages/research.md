@@ -11,6 +11,8 @@ author_profile: true
 
 **Technical Reports Conducted at Korea Rural Economic Institute (KREI)**
 
+My research at the Korea Rural Economic Institute (KREI) has centered on supporting sustainable agricultural production by evaluating agricultural and environmental policies related to climate change, extreme weather events, drought resilience, and sustainable resource use. Through a series of national projects, I have conducted economic evaluations to inform evidence-based policymaking and explored strategies such as greenhouse gas mitigation and adaptation, and integrated water-energy-food systems to strengthen agricultural sustainability.
+
 * Hakkyun Jeong, Jaehoon Sung, **Hyunjung Lee**, *The Effects of Extreme Events on Korean Agricultural Sector*, Korea Rural Economic Institute, 2019.
 * Jaehoon Sung, Wonjoo Cho, **Hyunjung Lee**, Kyungsoo Kang, *Development of Economic Assessment Model for Water-Energy-Food Nexus Platform and Evaluation Agricultural Policies Based on Water-Energy-Food Nexus* (Year 2 of 2), Korea Rural Development Administration, 2019.
 * Gwangseok Chae, Hongsang Kim, Youngah Lim, **Hyunjung Lee**, *Study on Appropriate Prices of Water Supply for Permission to Use Agricultural Production Facilities*, Korea Rural Community Cooperation, 2019.
